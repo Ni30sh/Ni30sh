@@ -1,6 +1,8 @@
-[![MasterHead]()]
+[![MasterHead](https://www.canva.com/design/DAFkAXAKZFc/MNO_UgJNbaZvQ0r_ffEx6Q/edit?analyticsCorrelationId=4a396154-b60b-4385-a63d-79373ae57a67)]
 <h1 align="center">Hi 👋, I'm NITEESH KUMAR</h1>
+
 <h3 align="center">A passionate Python Developer from India</h3>
+
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <hr>
