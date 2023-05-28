@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-🔭 I’m currently working on  Python GUI projects <br>👯 I’m looking to collaborate on Python Related Projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Python $ ML<br>💬 Ask me about <br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working on  Python GUI projects <br>👯 I’m looking to collaborate on Python Related Projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Python $ Data Science <br>💬 Ask me about <br>⚡ Fun fact - I am lazy but smart
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteesh-kumar-3826631b4/) 
