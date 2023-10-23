@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
-🔭 I’m currently working on  Python projects <br>👯 I’m intresded in collaboration on Python Related Projects<br>🤝 I’m open to suggestion realeated to Python || SQL || c-lag <br>🌱 I’m currently Working on C & Python  <br>🌱 I’m currently Learing  Artificial Intelligence and Machine Learning <br>💬 Ask me anything  <br>⚡ Fun fact - I am lazy but smart
+🔭 I’m currently working on  Python projects <br>👯 I’m intrested in collaborations on Python Related Projects<br>🤝 I’m open to suggestions realeated to Python || SQL || C-lag <br>🌱 I’m Working on C & Python  <br>🌱 I’m currently Learing  Artificial Intelligence and Machine Learning <br>💬 Ask me anything  <br>⚡ Fun fact - I am lazy but smart
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niteesh-kumar-3826631b4/) 
