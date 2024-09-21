@@ -33,7 +33,7 @@
 ## [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pikoder2) 
 
 <form action="https://www.razorpay.com/pay" method="POST">
-<!--    <img src="https://img.shields.io/badge/Support%20Me-Razorpay-blue?style=for-the-badge&logo=razorpay&logoColor=white" alt="Donate via Razorpay"> -->
+   <img src="https://img.shields.io/badge/Support%20Me-Razorpay-blue?style=for-the-badge&logo=razorpay&logoColor=white" alt="BY ME A COFFEE">
   <form>
     <script src="https://checkout.razorpay.com/v1/payment-button.js"
           data-payment_button_id="pl_OzzkMearFxi6Xo" async>
