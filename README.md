@@ -30,22 +30,11 @@
 [![](https://visitcount.itsvg.in/api?id=Ni30sh&icon=0&color=5)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](<!-- Razorpay Payment Button -->
-<form action="https://www.razorpay.com/pay" method="POST">
-  <script
-    src="https://checkout.razorpay.com/v1/payment-button.js"
-    data-payment_button_id="YOUR_PAYMENT_BUTTON_ID"
-    async>
-  </script>
-</form>
-) 
 
+<a href="https://rzp.io/l/pl_OzzkMearFxi6Xo" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Donate via Razorpay">
+</a>
 
-
-
-## <a href="https://rzp.io/l/pl_OzzkMearFxi6Xo" target="_blank">
-##  <img src="https://img.shields.io/badge/Support%20Me-Razorpay-blue?style=for-the-badge&logo=razorpay&logoColor=white" alt="Donate via Razorpay">
-## </a>
 
 
   
