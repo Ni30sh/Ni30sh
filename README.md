@@ -27,7 +27,7 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ni30sh&icon=0&color=5)](https://visitcount.itsvg.in)
+![Visitor Tracker](https://your-app.onrender.com/track.png)
 
 ## 💰 You can help me by Donating
 
