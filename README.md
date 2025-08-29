@@ -27,7 +27,10 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-![Visitor Tracker](https://your-app.onrender.com/track.png)
+![Visitor Tracker](https://tracking-8o7x.onrender.com/track.png)
+_ _ _ 
+![Visitor Tracker](https://tracking-8o7x.onrender.com/stats)
+
 
 ## 💰 You can help me by Donating
 
