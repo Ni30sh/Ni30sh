@@ -25,9 +25,6 @@
 
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
-
----
-![Visitor Tracker](https://tracking-8o7x.onrender.com/track.png)
 _ _ _ 
 ![Visitor Tracker](https://tracking-8o7x.onrender.com/stats)
 
