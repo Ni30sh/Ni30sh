@@ -1,4 +1,3 @@
-<!-- 🔥 PERSONAL BRAND GITHUB PROFILE -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Nitesh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20Developer&descAlignY=55" />
