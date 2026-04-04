@@ -15,7 +15,7 @@
 ## 🧠 About Me
 
 ```yaml
-Name: Nitesh
+Name: Niteesh
 Role: AI & Machine Learning Developer
 Core Skills:
   - Python
