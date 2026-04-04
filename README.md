@@ -26,7 +26,7 @@
 ### 😂 Random Dev Meme
 <img src="https://rm.up.railway.app/" width="512px"/>
 _ _ _ 
-![Visitor Tracker](https://tracking-8o7x.onrender.com/stats)
+![Profile Views](https://komarev.com/ghpvc/?username=Ni30sh&label=Profile%20Views&color=blueviolet&style=flat)
 
 
 ## 💰 You can help me by Donating
