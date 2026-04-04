@@ -1,3 +1,4 @@
+<!-- 🔥 PERSONAL BRAND GITHUB PROFILE -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Nitesh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20Developer&descAlignY=55" />
@@ -8,8 +9,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2C9AFF&size=26&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+Developer;Machine+Learning+Engineer;FastAPI+%7C+Django+Backend+Developer;Focused+on+Real-World+Impact" />
 </p>
-
----
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
@@ -32,8 +31,6 @@ Philosophy:
   - Build > Learn > Iterate
 ```
 
----
-
 ## 🌐 Connect
 
 <p align="center">
@@ -42,15 +39,11 @@ Philosophy:
 </a>
 </p>
 
----
-
 ## ⚙️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,django,fastapi,mysql,gcp,tensorflow,pytorch,sklearn,git,github&perline=6" />
 </p>
-
----
 
 ## 🧬 AI Focus Areas
 
@@ -60,8 +53,6 @@ Philosophy:
 <img src="https://img.shields.io/badge/Computer%20Vision-0F52BA?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Data%20Science-4682B4?style=for-the-badge"/>
 </p>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -74,15 +65,11 @@ Philosophy:
 <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ni30sh&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
----
-
 ## 🔥 Contribution Activity
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ni30sh&theme=github-dark&hide_border=true"/>
 </p>
-
----
 
 ## 🏆 Achievements
 
@@ -90,7 +77,11 @@ Philosophy:
 <img src="https://github-profile-trophy.vercel.app/?username=Ni30sh&theme=flat&no-frame=true&margin-w=10"/>
 </p>
 
----
+## ✍️ Random Dev Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark"/>
+</p>
 
 ## 👁️ Profile Visitors
 
@@ -98,9 +89,7 @@ Philosophy:
 <img src="https://komarev.com/ghpvc/?username=Ni30sh&label=PROFILE+VIEWS&color=2C9AFF&style=for-the-badge"/>
 </p>
 
----
-
-## 🚀 Featured Projects (Add your best ones here)
+## 🚀 Featured Projects
 
 <p align="center">
 🔹 AI Chatbot System  
@@ -108,15 +97,11 @@ Philosophy:
 🔹 EcoQuest (Gamified Sustainability App)  
 </p>
 
----
-
 ## 💼 Vision
 
 <p align="center">
 To build scalable AI systems that solve real-world problems and create meaningful impact.
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
