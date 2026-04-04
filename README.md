@@ -1,4 +1,4 @@
-<!-- 🔥 PERSONAL BRAND GITHUB PROFILE -->
+<!-- 🔥 PERSONAL BRAND GITHUB PROFILE WITH PROJECT CARDS -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=NITEESH&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20Developer&descAlignY=55" />
@@ -14,21 +14,11 @@
 
 ## 🧠 About Me
 
-```yaml id="c1g7k2"
+```yaml
 Name: NITEESH
 Role: AI & Machine Learning Developer
-Core Skills:
-  - Python
-  - Machine Learning
-  - Deep Learning
-  - Backend Development (FastAPI, Django)
-
-Current Focus:
-  - Building real-world AI applications
-  - Improving model performance & deployment
-
-Philosophy:
-  - Build > Learn > Iterate
+Focus: Building real-world AI systems
+Tech: Python | ML | FastAPI | Django
 ```
 
 ## 🌐 Connect
@@ -45,14 +35,46 @@ Philosophy:
 <img src="https://skillicons.dev/icons?i=python,java,cpp,django,fastapi,mysql,gcp,tensorflow,pytorch,sklearn,git,github&perline=6" />
 </p>
 
-## 🧬 AI Focus Areas
+## 🚀 Featured Projects
 
-<p align="center">
-<img src="https://img.shields.io/badge/Deep%20Learning-2C9AFF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Natural%20Language%20Processing-1E90FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-0F52BA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-4682B4?style=for-the-badge"/>
+### 🔹 AI Chatbot System
+
+<p>
+<img src="https://img.shields.io/badge/AI-Chatbot-2C9AFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/NLP-Model-blue?style=for-the-badge"/>
 </p>
+
+An intelligent chatbot powered by Machine Learning and NLP for real-time interaction.
+👉 <a href="#">View Project</a>
+
+---
+
+### 🔹 Machine Learning Prediction System
+
+<p>
+<img src="https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Python-Core-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit-Learn-Model-red?style=for-the-badge"/>
+</p>
+
+A predictive system using ML algorithms to analyze data and generate accurate predictions.
+👉 <a href="#">View Project</a>
+
+---
+
+### 🔹 EcoQuest 🌱 (Gamified Sustainability App)
+
+<p>
+<img src="https://img.shields.io/badge/Gamification-AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Environment-App-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Student-Platform-blue?style=for-the-badge"/>
+</p>
+
+A gamified mobile/web platform that encourages eco-friendly actions through rewards and tracking.
+👉 <a href="#">View Project</a>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -87,20 +109,6 @@ Philosophy:
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Ni30sh&label=PROFILE+VIEWS&color=2C9AFF&style=for-the-badge"/>
-</p>
-
-## 🚀 Featured Projects
-
-<p align="center">
-🔹 AI Chatbot System  
-🔹 Machine Learning Prediction Model  
-🔹 EcoQuest (Gamified Sustainability App)  
-</p>
-
-## 💼 Vision
-
-<p align="center">
-To build scalable AI systems that solve real-world problems and create meaningful impact.
 </p>
 
 <p align="center">
